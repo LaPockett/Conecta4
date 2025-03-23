@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Conecta4" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/bola</item>
+        <item name="colorOnPrimary">@color/bola</item>
+    </style>
+    <style name="Theme.Conecta4" parent="Base.Theme.Conecta4" />
+</resources>
